@@ -2,11 +2,11 @@
 
 **My name is Fay** 👼🏻 
 
- Now, I am a sophomore student of software engineering at KMITL. I am interested in coding and want to learn more understanding about coding. 
+Hi, I'm a sophomore at software engineering KMITL. I stumbled coding when I was in high school, it was fascinating, that is why I decided to join this engineering major to learn more about it.
 
-I am the beginner about coding but I will try to use this platform to share my code with your guys. So, if you have any suggestion or see some bug in my code, feel free to tell me. I appreciate a lot that you spend your time to read my code.
+I am new to coding, but I will try to share my code via this platform. So, if you have any suggestion or see some crucial mistakes in my code, feel free to tell me. Thank you in advanced!
 
-Sincerely thank you all of you 🥺🙏🏻
+Thanks for the support 🥺🙏🏻
 
 # Programming Language ⌨️
 <img src="https://img.icons8.com/color/48/000000/c-programming.png" title="C"/><img src="https://img.icons8.com/color/48/000000/python--v1.png" title="Python"/>  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C++"/> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" title="Java"/> 
