@@ -1,6 +1,6 @@
-# Hi guys!
+# About Me 👋🏻
 
-**My name is Fay** 👼🏻 
+### **My name is Fay** 👼🏻 
 
 Hi, I'm a sophomore at software engineering KMITL. I stumbled upon coding when I was in high school, it was fascinating, that is why I decided to join this engineering major to learn more about it.
 
