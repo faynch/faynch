@@ -1,6 +1,6 @@
 # Hi guys!
 
-** My name is Fay **👼🏻 
+**My name is Fay** 👼🏻 
 
  Now, I am a sophomore student of software engineering at KMITL. I knew about the basic code at grade 12 which is the reason that make me decided to join in this faculty for more understanding about coding. 
 
