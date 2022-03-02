@@ -1,8 +1,8 @@
 # About Me 👋🏻
 
-### **My name is Fay** 👼🏻 
+### **Hi, my name is Fay** 👼🏻 
 
-Hi, I'm a sophomore at software engineering KMITL. I stumbled upon coding when I was in high school, it was fascinating, that is why I decided to join this engineering major to learn more about it.
+ I'm a sophomore at software engineering KMITL. I stumbled upon coding when I was in high school, it was fascinating, that is why I decided to join this engineering major to learn more about it.
 
 I am new to coding, but I will try to share my code via this platform. So, if you have any suggestion or see some crucial mistakes in my code, feel free to tell me. Thank you in advanced!
 
