@@ -1,4 +1,4 @@
-# About Me 👋🏻
+<!-- # About Me 👋🏻
 
 ### **Hi, my name is Fay** 👼🏻 
 
@@ -6,7 +6,7 @@
 
 I am new to coding, but I will try to share my code via this platform. So, if you have any suggestion or see some crucial mistakes in my code, feel free to tell me. Thank you in advanced!
 
-Thanks for the support 🥺🙏🏻
+Thanks for the support 🥺🙏🏻 -->
 
 # Programming Language ⌨️
 <img src="https://img.icons8.com/color/48/000000/c-programming.png" title="C"/><img src="https://img.icons8.com/color/48/000000/python--v1.png" title="Python"/>  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C++"/> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" title="Java"/> 
